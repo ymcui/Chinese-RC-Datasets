@@ -45,9 +45,11 @@ Here I list several state-of-the-art systems (published / unpublished) for these
 
 ### People Daily & Children's Fairy Tale
 | System  | PD-DEV | PD-TEST | CFT-TEST-AUTO | CFT-TEST-HUMAN | Note |
-| :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
-| [CAS Reader](https://aclanthology.info/papers/C16-1167/c16-1167) | 65.2 | 68.1 | 41.3 | 35.0 | - |
-| [AS Reader](https://aclanthology.info/papers/C16-1167/c16-1167) | 64.1 | 67.2 | 40.9 | 33.1 | - | 
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| [SAW Reader (Zhang et al., 2018)](https://arxiv.org/pdf/1806.09103.pdf) | 72.8 | 75.1 | - | 43.8 | - |
+| [CAW Reader (Zhang et al., 2018)](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_3)| 69.4 | 70.5 | - | 39.7 | - |
+| [CAS Reader (Cui et al., 2016)](https://aclanthology.info/papers/C16-1167/c16-1167) | 65.2 | 68.1 | 41.3 | 35.0 | - |
+| [AS Reader (Zhang et al., 2016)](https://aclanthology.info/papers/C16-1167/c16-1167) | 64.1 | 67.2 | 40.9 | 33.1 | - | 
 
 
 ### CMRC 2017
@@ -59,6 +61,9 @@ Leaderboard: https://hfl-rc.github.io/cmrc2017/leaderboard/
 | 6ESTATES PTE LTD (ensemble) | 81.85 | 81.90 | - |
 | SJTU BCMI-NLP (ensemble) | 78.35 | 80.67 | - | 
 | YunSiChuangZhi (ensemble) | 79.20 | 80.27 | - | 
+| [SAW Reader (Zhang et al., 2018)](https://arxiv.org/pdf/1806.09103.pdf) | 78.95 | 78.80 | - |
+| [CAW Reader (Zhang et al., 2018)](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_3) | 77.95 | 78.50 | - |
+| [Word + Char + BPE-FRQ (Zhang et al., 2018)](https://arxiv.org/pdf/1811.02364.pdf) | 79.05 | 78.83 | - |
 
 #### User Query Track
 | System  | DEV | TEST | Note |
@@ -66,6 +71,7 @@ Leaderboard: https://hfl-rc.github.io/cmrc2017/leaderboard/
 | ECNU (ensemble) | 90.45 | 69.53 | - |
 | SXU-3 (single model) | 47.80 | 49.07 | - | 
 | ZZU (single model) | 31.10 | 32.53 | - | 
+
 
 ### DuReader
 Leaderboard: http://ai.baidu.com/broad/leaderboard?dataset=dureader
@@ -75,24 +81,27 @@ Leaderboard: http://ai.baidu.com/broad/leaderboard?dataset=dureader
 | AliReader | 63.48 | 61.54 | - |
 | NI-Reader (ensemble) | 63.38 | 59.23 | - |
 | mrc_try_mingyan (single model) | 62.20 | 59.72 | - |
-| [Match-LSTM](https://aclanthology.info/papers/W18-2605/w18-2605) | 39.2 | 31.9 | - |
-| [BiDAF](https://aclanthology.info/papers/W18-2605/w18-2605) | 39.0 | 31.8 | - |
+| [(Yan et al., 2018)](https://arxiv.org/pdf/1811.11374.pdf) | 50.71 | 49.39 | - |
+| [(Li et al., 2018)](http://zhaohuilee.com/files/82.pdf) | 44.95 | 42.68 | - |
+| [(Wang et al., 2018)](https://arxiv.org/pdf/1805.02220.pdf) | 44.18 | 40.97 | - |
+| [(Xu et al., 2018)](https://www.matec-conferences.org/articles/matecconf/pdf/2018/91/matecconf_eitce2018_02047.pdf) | 39.60 | 34.76 | - |  
+| [Match-LSTM (He et al., 2018)](https://aclanthology.info/papers/W18-2605/w18-2605) | 39.2 | 31.9 | - |
+| [BiDAF (He et al., 2018)](https://aclanthology.info/papers/W18-2605/w18-2605) | 39.0 | 31.8 | - |
 
 
 ### CMRC 2018
 Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 
-| System  | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-EM | Note |
+| System  | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-F1 | Note |
 | :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
 | GM-Reader (ensemble) | 64.045 | 83.046 | 15.675 | 37.315 | - |
 | MCA-Reader (ensemble) | 71.175 | 88.090 | 15.476 | 37.104 | - | 
 | Z-Reader (single model) | 74.178 | 88.145 | 13.889 | 37.422 | - |
 
-* More detailed results can be obtained in [CMRC 2018 Overview](https://arxiv.org/abs/1810.07366).
+> More detailed results can be obtained in [CMRC 2018 Overview](https://arxiv.org/abs/1810.07366).
 
 
 ### DRCD
-
 | System  | DEV-EM | DEV-F1 | TEST-EM | TEST-EM | Note |
 | :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
 | r-net (single model) | - | - | 29.1 | 44.4 | - |
