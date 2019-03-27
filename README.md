@@ -45,7 +45,7 @@ Here I list several state-of-the-art systems (published / unpublished) for these
 
 ### People Daily & Children's Fairy Tale
 | System  | PD-DEV | PD-TEST | CFT-TEST-AUTO | CFT-TEST-HUMAN | Note |
-| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
 | [CAS Reader](https://aclanthology.info/papers/C16-1167/c16-1167) | 65.2 | 68.1 | 41.3 | 35.0 | - |
 | [AS Reader](https://aclanthology.info/papers/C16-1167/c16-1167) | 64.1 | 67.2 | 40.9 | 33.1 | - | 
 
