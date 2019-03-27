@@ -18,10 +18,15 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 | DRCD [6]<sup>(tranditional Chinese)</sup> | Wiki | Query | Span | - | 34K | [link](https://github.com/DRCSolutionService/DRCD) |
 
 > [1] (Cui et al., 2016) Consensus Attention-based Neural Networks for Chinese Reading Comprehension. In COLING 2016. https://aclanthology.info/papers/C16-1167/c16-1167
+
 > [2] (Li et al., 2016) Dataset and Neural Recurrent Sequence Labeling Model for Open-Domain Factoid Question Answering. In arXiv. https://arxiv.org/abs/1607.06275
+
 > [3] (Cui et al., 2018) Dataset for the First Evaluation on Chinese Machine Reading Comprehension. In LREC 2018. http://www.lrec-conf.org/proceedings/lrec2018/summaries/32.html
+
 > [4] (He et al., 2018) DuReader: a Chinese Machine Reading Comprehension Dataset from Real-world Applications. In ACL 2018 MRQA Workshop. https://aclanthology.info/papers/W18-2605/w18-2605
+
 > [5] (Cui et al., 2018) A Span-Extraction Dataset for Chinese Machine Reading Comprehension. In arXiv. https://arxiv.org/abs/1810.07366
+
 > [6] (Shao et al., 2018) DRCD: a Chinese Machine Reading Comprehension Dataset. In arXiv. https://arxiv.org/abs/1806.00920
 
 
