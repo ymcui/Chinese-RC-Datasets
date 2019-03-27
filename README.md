@@ -41,7 +41,61 @@ Along with the release of these datasets, there are also several Chinese Reading
  
 
 ## State-of-the-art Systems
-TBA
+Here I list several state-of-the-art systems (published / unpublished) for these datasets. There is a big chance that I missed something. So feel free to inform me new entries on `Issue` tab.
+
+### People Daily & Children's Fairy Tale
+| System  | PD-DEV | PD-TEST | CFT-TEST-AUTO | CFT-TEST-HUMAN | Note |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| [CAS Reader](https://aclanthology.info/papers/C16-1167/c16-1167) | 65.2 | 68.1 | 41.3 | 35.0 | - |
+| [AS Reader](https://aclanthology.info/papers/C16-1167/c16-1167) | 64.1 | 67.2 | 40.9 | 33.1 | - | 
+
+
+### CMRC 2017
+Leaderboard: https://hfl-rc.github.io/cmrc2017/leaderboard/
+
+#### Cloze Track 
+| System  | DEV | TEST | Note |
+| :------ | :-----: | :-----: | :-----: |
+| 6ESTATES PTE LTD (ensemble) | 81.85 | 81.90 | - |
+| SJTU BCMI-NLP (ensemble) | 78.35 | 80.67 | - | 
+| YunSiChuangZhi (ensemble) | 79.20 | 80.27 | - | 
+
+#### User Query Track
+| System  | DEV | TEST | Note |
+| :------ | :-----: | :-----: | :-----: |
+| ECNU (ensemble) | 90.45 | 69.53 | - |
+| SXU-3 (single model) | 47.80 | 49.07 | - | 
+| ZZU (single model) | 31.10 | 32.53 | - | 
+
+### DuReader
+Leaderboard: http://ai.baidu.com/broad/leaderboard?dataset=dureader
+
+| System  | ROUGE-L | BLEU-4 | Note |
+| :------ | :-----: | :-----: | :-----: |
+| AliReader | 63.48 | 61.54 | - |
+| NI-Reader (ensemble) | 63.38 | 59.23 | - |
+| mrc_try_mingyan (single model) | 62.20 | 59.72 | - |
+| [Match-LSTM](https://aclanthology.info/papers/W18-2605/w18-2605) | 39.2 | 31.9 | - |
+| [BiDAF](https://aclanthology.info/papers/W18-2605/w18-2605) | 39.0 | 31.8 | - |
+
+
+### CMRC 2018
+Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
+
+| System  | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-EM | Note |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| GM-Reader (ensemble) | 64.045 | 83.046 | 15.675 | 37.315 | - |
+| MCA-Reader (ensemble) | 71.175 | 88.090 | 15.476 | 37.104 | - | 
+| Z-Reader (single model) | 74.178 | 88.145 | 13.889 | 37.422 | - |
+
+*More detailed results can be obtained in [CMRC 2018 Overview](https://arxiv.org/abs/1810.07366).
+
+
+### DRCD
+
+| System  | DEV-EM | DEV-F1 | TEST-EM | TEST-EM | Note |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| r-net (single model) | - | - | 29.1 | 44.4 | - |
 
 
 ## Contact
