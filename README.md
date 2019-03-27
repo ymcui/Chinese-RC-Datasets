@@ -83,7 +83,7 @@ Leaderboard: http://ai.baidu.com/broad/leaderboard?dataset=dureader
 Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 
 | System  | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-EM | Note |
-| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
 | GM-Reader (ensemble) | 64.045 | 83.046 | 15.675 | 37.315 | - |
 | MCA-Reader (ensemble) | 71.175 | 88.090 | 15.476 | 37.104 | - | 
 | Z-Reader (single model) | 74.178 | 88.145 | 13.889 | 37.422 | - |
