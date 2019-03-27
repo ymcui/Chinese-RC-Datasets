@@ -94,7 +94,7 @@ Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 ### DRCD
 
 | System  | DEV-EM | DEV-F1 | TEST-EM | TEST-EM | Note |
-| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
 | r-net (single model) | - | - | 29.1 | 44.4 | - |
 
 
