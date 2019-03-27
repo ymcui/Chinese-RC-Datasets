@@ -88,7 +88,7 @@ Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 | MCA-Reader (ensemble) | 71.175 | 88.090 | 15.476 | 37.104 | - | 
 | Z-Reader (single model) | 74.178 | 88.145 | 13.889 | 37.422 | - |
 
-*More detailed results can be obtained in [CMRC 2018 Overview](https://arxiv.org/abs/1810.07366).
+* More detailed results can be obtained in [CMRC 2018 Overview](https://arxiv.org/abs/1810.07366).
 
 
 ### DRCD
