@@ -94,6 +94,7 @@ Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 
 | System  | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-F1 | Note |
 | :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
+| P-Reader (single model) | 65.189 | 84.386 | 15.079 | 39.583 | - |
 | GM-Reader (ensemble) | 64.045 | 83.046 | 15.675 | 37.315 | - |
 | MCA-Reader (ensemble) | 71.175 | 88.090 | 15.476 | 37.104 | - | 
 | Z-Reader (single model) | 74.178 | 88.145 | 13.889 | 37.422 | - |
