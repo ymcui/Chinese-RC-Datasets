@@ -37,30 +37,25 @@ Along with the release of these datasets, there are also several Chinese Reading
 </br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
 </br>Competition Type: Cloze-style RC, User Query RC
 
-2. [The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2018)](https://hfl-rc.github.io/cmrc2018/)
+> 2. [The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2018)](https://hfl-rc.github.io/cmrc2018/)
+</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
+</br>Competition Type: Span-Extraction RC
 
-Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
-Competition Type: Span-Extraction RC
+> 3. [2018 NLP Challenge on Machine Reading Comprehension](http://mrc2018.cipsc.org.cn/)
+</br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
+</br>Competition Type: Open-Domain RC
 
-3. [2018 NLP Challenge on Machine Reading Comprehension](http://mrc2018.cipsc.org.cn/)
+> 4. [CIPS-SOGOU QA Competition](http://task.www.sogou.com/cips-sogou_qa/)
+</br>Host: [CIPSC](http://www.cipsc.org.cn), [SOGOU](http://www.sogou.com)
+</br>Competition Type: Factoid QA, Non-Factoid QA
 
-Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
-Competition Type: Open-Domain RC
+> 5. [The Third Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2019)](https://hfl-rc.github.io/cmrc2019/)
+</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
+</br>Competition Type: TBA
 
-4. [CIPS-SOGOU QA Competition](http://task.www.sogou.com/cips-sogou_qa/)
-
-Host: [CIPSC](http://www.cipsc.org.cn), [SOGOU](http://www.sogou.com)
-Competition Type: Factoid QA, Non-Factoid QA
-
-5. [The Third Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2019)](https://hfl-rc.github.io/cmrc2019/)
-
-Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
-Competition Type: TBA
-
-6. [2019 NLP Language and Intelligence Challenge](http://lic2019.ccf.org.cn)
-
-Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
-Competition Type: TBA
+> 6. [2019 NLP Language and Intelligence Challenge](http://lic2019.ccf.org.cn)
+</br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
+</br>Competition Type: TBA
 
 
 ## State-of-the-art Systems
