@@ -2,8 +2,16 @@
 
 **Note that, this repository will be updated irregularly.**
 
-## Statement
 **If you find this repository helpful, please press the star button. Moreover, if you would like to use or repost the content in this repository, please indicate the orignal author and source link.**
+
+## Content
+
+| Section | Description |
+|-|-|
+| [Chinese Reading Comprehension Datasets](#Chinese-Reading-Comprehension-Datasets) | Describe public Chinese RC datasets |
+| [State-of-the-art Systems](#State-of-the-art-Systems) | State-of-the-art systems and results |
+| [Chinese Reading Comprehension Evaluations and Competitions](#Chinese-Reading-Comprehension-Evaluations-and-Competitions) | Introductions to Chinese RC competitions |
+
 
 ## Chinese Reading Comprehension Datasets
 Here I list several Chinese reading comprehension datasets that are PUBLICLY available (with appropriate technical report or paper). If I missed something, feel free to inform me. Unless indicated, the datasets are in simplified Chinese.
@@ -28,34 +36,6 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 > [5] (Cui et al., 2018) A Span-Extraction Dataset for Chinese Machine Reading Comprehension. In arXiv. https://arxiv.org/abs/1810.07366
 
 > [6] (Shao et al., 2018) DRCD: a Chinese Machine Reading Comprehension Dataset. In arXiv. https://arxiv.org/abs/1806.00920
-
-
-## Chinese Reading Comprehension Evaluation / Competition
-Along with the release of these datasets, there are also several Chinese Reading Comprehension evaluation workshops or competitions which further accelerate the research on this topic.
-
-> 1. [The First Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2017)](https://hfl-rc.github.io/cmrc2017/)
-</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
-</br>Competition Type: Cloze-style RC, User Query RC
-
-> 2. [The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2018)](https://hfl-rc.github.io/cmrc2018/)
-</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
-</br>Competition Type: Span-Extraction RC
-
-> 3. [2018 NLP Challenge on Machine Reading Comprehension](http://mrc2018.cipsc.org.cn/)
-</br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
-</br>Competition Type: Open-Domain RC
-
-> 4. [CIPS-SOGOU QA Competition](http://task.www.sogou.com/cips-sogou_qa/)
-</br>Host: [CIPSC](http://www.cipsc.org.cn), [SOGOU](http://www.sogou.com)
-</br>Competition Type: Factoid QA, Non-Factoid QA
-
-> 5. [The Third Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2019)](https://hfl-rc.github.io/cmrc2019/)
-</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
-</br>Competition Type: TBA
-
-> 6. [2019 NLP Language and Intelligence Challenge](http://lic2019.ccf.org.cn)
-</br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
-</br>Competition Type: TBA
 
 
 ## State-of-the-art Systems
@@ -124,6 +104,35 @@ Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 | System  | DEV-EM | DEV-F1 | TEST-EM | TEST-EM | Note |
 | :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
 | r-net (single model) | - | - | 29.1 | 44.4 | - |
+
+
+
+## Chinese Reading Comprehension Evaluations and Competitions
+Along with the release of these datasets, there are also several Chinese Reading Comprehension evaluation workshops or competitions which further accelerate the research on this topic.
+
+> 1. [The First Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2017)](https://hfl-rc.github.io/cmrc2017/)
+</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
+</br>Competition Type: Cloze-style RC, User Query RC
+
+> 2. [The Second Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2018)](https://hfl-rc.github.io/cmrc2018/)
+</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
+</br>Competition Type: Span-Extraction RC
+
+> 3. [2018 NLP Challenge on Machine Reading Comprehension](http://mrc2018.cipsc.org.cn/)
+</br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
+</br>Competition Type: Open-Domain RC
+
+> 4. [CIPS-SOGOU QA Competition](http://task.www.sogou.com/cips-sogou_qa/)
+</br>Host: [CIPSC](http://www.cipsc.org.cn), [SOGOU](http://www.sogou.com)
+</br>Competition Type: Factoid QA, Non-Factoid QA
+
+> 5. [The Third Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2019)](https://hfl-rc.github.io/cmrc2019/)
+</br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
+</br>Competition Type: TBA
+
+> 6. [2019 NLP Language and Intelligence Challenge](http://lic2019.ccf.org.cn)
+</br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
+</br>Competition Type: TBA
 
 
 ## Contact
