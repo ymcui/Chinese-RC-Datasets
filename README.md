@@ -90,19 +90,21 @@ Leaderboard: http://ai.baidu.com/broad/leaderboard?dataset=dureader
 ### CMRC 2018
 Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 
-| System  | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-F1 | Note |
-| :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
-| P-Reader (single model) | 65.189 | 84.386 | 15.079 | 39.583 | - |
-| GM-Reader (ensemble) | 64.045 | 83.046 | 15.675 | 37.315 | - |
-| MCA-Reader (ensemble) | 71.175 | 88.090 | 15.476 | 37.104 | - | 
-| Z-Reader (single model) | 74.178 | 88.145 | 13.889 | 37.422 | - |
+| System  | DEV-EM | DEV-F1 | TEST-EM | TEST-F1 | CHALLENGE-EM | CHALLENGE-F1 | Note |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| P-Reader (single model) | 59.894 | 81.499 | 65.189 | 84.386 | 15.079 | 39.583 | - |
+| GM-Reader (ensemble) | 58.931 | 80.069 | 64.045 | 83.046 | 15.675 | 37.315 | - |
+| MCA-Reader (ensemble) | 66.698 | 85.538 | 71.175 | 88.090 | 15.476 | 37.104 | - | 
+| Z-Reader (single model) | 79.776 | 92.696 | 74.178 | 88.145 | 13.889 | 37.422 | - |
+| [SRC->DS(±) (Yang et al., 2019)](https://arxiv.org/abs/1904.06652) | 49.2 | 65.4 | - | - | - | - | - |
 
 > More detailed results can be obtained in [CMRC 2018 Overview](https://arxiv.org/abs/1810.07366).
-
+> Note that, some of the submission are using development set for training as well.
 
 ### DRCD
 | System  | DEV-EM | DEV-F1 | TEST-EM | TEST-EM | Note |
 | :------ | :-----: | :-----: | :-----: | :-----: | :-----: |
+| [SRC + DS(±) (Yang et al., 2019)](https://arxiv.org/abs/1904.06652) | 55.4 | 67.7 | - | - | - |
 | r-net (single model) | - | - | 29.1 | 44.4 | - |
 
 
