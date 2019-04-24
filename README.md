@@ -24,7 +24,7 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 | DuReader [4] | Web | User log | free form | 1M | 200K | [link](https://github.com/baidu/DuReader) |
 | CMRC 2018 [5] | Wiki | Query | Span | - | 18K | [link](https://github.com/ymcui/cmrc2018) |
 | DRCD [6]<sup>(tranditional Chinese)</sup> | Wiki | Query | Span | - | 34K | [link](https://github.com/DRCSolutionService/DRCD) |
-| C^3 [7] | mixed | Query | choice | - | 24K | [link](https://dataset.org/c3/) |
+| C^3 [7] | mixed | Query | choice | 14K | 24K | [link](https://dataset.org/c3/) |
 
 > [1] (Cui et al., 2016) Consensus Attention-based Neural Networks for Chinese Reading Comprehension. In COLING 2016. https://aclanthology.info/papers/C16-1167/c16-1167
 
