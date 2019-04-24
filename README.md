@@ -24,6 +24,7 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 | DuReader [4] | Web | User log | free form | 1M | 200K | [link](https://github.com/baidu/DuReader) |
 | CMRC 2018 [5] | Wiki | Query | Span | - | 18K | [link](https://github.com/ymcui/cmrc2018) |
 | DRCD [6]<sup>(tranditional Chinese)</sup> | Wiki | Query | Span | - | 34K | [link](https://github.com/DRCSolutionService/DRCD) |
+| C^3 [7] | mixed | Query | choice | - | 24K | [link](https://dataset.org/c3/) |
 
 > [1] (Cui et al., 2016) Consensus Attention-based Neural Networks for Chinese Reading Comprehension. In COLING 2016. https://aclanthology.info/papers/C16-1167/c16-1167
 
@@ -36,6 +37,8 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 > [5] (Cui et al., 2018) A Span-Extraction Dataset for Chinese Machine Reading Comprehension. In arXiv. https://arxiv.org/abs/1810.07366
 
 > [6] (Shao et al., 2018) DRCD: a Chinese Machine Reading Comprehension Dataset. In arXiv. https://arxiv.org/abs/1806.00920
+
+> [7] (Sun et al., 2019) Probing Prior Knowledge Needed in Challenging Chinese Machine Reading Comprehension. https://arxiv.org/abs/1904.09679
 
 
 ## State-of-the-art Systems
@@ -108,6 +111,13 @@ Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 | r-net (single model) | - | - | 29.1 | 44.4 | - |
 
 
+### C^3
+| System  | DEV-1A | TEST-1A | DEV-1B | TEST-1B | DEV-2A | TEST-2A | DEV-2B | TEST-2B | Note |
+| :------ | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
+| [BERT_CN (Sun et al., 2019)](https://arxiv.org/abs/1904.09679) | 63.0 | 62.6 | 62.3 | 62.1 | 36.7 | 26.2 | 34.7 | 31.3 | - |
+
+
+
 
 ## Chinese Reading Comprehension Evaluations and Competitions
 Along with the release of these datasets, there are also several Chinese Reading Comprehension evaluation workshops or competitions which further accelerate the research on this topic.
@@ -135,6 +145,7 @@ Along with the release of these datasets, there are also several Chinese Reading
 > 6. [2019 NLP Language and Intelligence Challenge](http://lic2019.ccf.org.cn)
 </br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
 </br>Competition Type: TBA
+
 
 
 ## Contact
