@@ -50,7 +50,7 @@ Here I list several state-of-the-art systems (published / unpublished) for these
 | [SAW Reader (Zhang et al., 2018)](https://arxiv.org/pdf/1806.09103.pdf) | 72.8 | 75.1 | - | 43.8 | - |
 | [CAW Reader (Zhang et al., 2018)](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_3)| 69.4 | 70.5 | - | 39.7 | - |
 | [CAS Reader (Cui et al., 2016)](https://aclanthology.info/papers/C16-1167/c16-1167) | 65.2 | 68.1 | 41.3 | 35.0 | - |
-| [AS Reader (Zhang et al., 2016)](https://aclanthology.info/papers/C16-1167/c16-1167) | 64.1 | 67.2 | 40.9 | 33.1 | - | 
+| [AS Reader (Cui et al., 2016)](https://aclanthology.info/papers/C16-1167/c16-1167) | 64.1 | 67.2 | 40.9 | 33.1 | - | 
 
 
 ### CMRC 2017
