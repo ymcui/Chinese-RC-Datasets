@@ -25,6 +25,7 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 | CMRC 2018 [5] | Wiki | Query | Span | - | 18K | [link](https://github.com/ymcui/cmrc2018) |
 | DRCD [6]<sup>(tranditional Chinese)</sup> | Wiki | Query | Span | - | 34K | [link](https://github.com/DRCSolutionService/DRCD) |
 | C^3 [7] | mixed | Query | choice | 14K | 24K | [link](https://dataset.org/c3/) |
+| CMRC 2019 [8] | Story | Cloze | Sentence | 1K | 100K | [link](https://github.com/ymcui/cmrc2019) |
 
 > [1] (Cui et al., 2016) Consensus Attention-based Neural Networks for Chinese Reading Comprehension. In COLING 2016. https://aclanthology.info/papers/C16-1167/c16-1167
 
@@ -39,6 +40,8 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 > [6] (Shao et al., 2018) DRCD: a Chinese Machine Reading Comprehension Dataset. In arXiv. https://arxiv.org/abs/1806.00920
 
 > [7] (Sun et al., 2019) Probing Prior Knowledge Needed in Challenging Chinese Machine Reading Comprehension. https://arxiv.org/abs/1904.09679
+
+> [8] (Cui et al., 2019) https://github.com/ymcui/cmrc2019
 
 
 ## State-of-the-art Systems
@@ -117,8 +120,6 @@ Leaderboard: https://hfl-rc.github.io/cmrc2018/open_challenge/
 | [BERT_CN (Sun et al., 2019)](https://arxiv.org/abs/1904.09679) | 63.0 | 62.6 | 62.3 | 62.1 | 36.7 | 26.2 | 34.7 | 31.3 | - |
 
 
-
-
 ## Chinese Reading Comprehension Evaluations and Competitions
 Along with the release of these datasets, there are also several Chinese Reading Comprehension evaluation workshops or competitions which further accelerate the research on this topic.
 
@@ -140,11 +141,11 @@ Along with the release of these datasets, there are also several Chinese Reading
 
 > 5. [The Third Evaluation Workshop on Chinese Machine Reading Comprehension (CMRC 2019)](https://hfl-rc.github.io/cmrc2019/)
 </br>Host: [CIPS-CL](http://www.cips-cl.org), [Joint Laboratory of HIT and iFLYTEK Research (HFL)](https://hfl-rc.github.io), [iFLYTEK Co. Ltd](http://www.iflytek.com)
-</br>Competition Type: TBA
+</br>Competition Type: Sentence Cloze
 
 > 6. [2019 NLP Language and Intelligence Challenge](http://lic2019.ccf.org.cn)
 </br>Host: [CCF](https://www.ccf.org.cn), [CIPSC](http://www.cipsc.org.cn), [Baidu Inc.](http://home.baidu.com)
-</br>Competition Type: TBA
+</br>Competition Type: Open-Domain RC
 
 
 
