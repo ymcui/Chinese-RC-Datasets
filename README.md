@@ -25,7 +25,8 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 | CMRC 2018 [5] | Wiki | Query | Span | - | 18K | [link](https://github.com/ymcui/cmrc2018) |
 | DRCD [6]<sup>(tranditional Chinese)</sup> | Wiki | Query | Span | - | 34K | [link](https://github.com/DRCSolutionService/DRCD) |
 | C^3 [7] | mixed | Query | choice | 14K | 24K | [link](https://dataset.org/c3/) |
-| CMRC 2019 [8] | Story | Cloze | Sentence | 1K | 100K | [link](https://github.com/ymcui/cmrc2019) |
+| CMRC 2019 [8] | Story | cloze | Sentence | 1K | 100K | [link](https://github.com/ymcui/cmrc2019) |
+| ChID [9] | varies | cloze | idiom | 580K | 729K | [link](https://github.com/zhengcj1/ChID-Dataset) | 
 
 > [1] (Cui et al., 2016) Consensus Attention-based Neural Networks for Chinese Reading Comprehension. In COLING 2016. https://aclanthology.info/papers/C16-1167/c16-1167
 
@@ -42,6 +43,8 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 > [7] (Sun et al., 2019) Probing Prior Knowledge Needed in Challenging Chinese Machine Reading Comprehension. https://arxiv.org/abs/1904.09679
 
 > [8] (Cui et al., 2019) https://github.com/ymcui/cmrc2019
+
+> [9] (Zheng et al., 2019) ChID: A Large-scale Chinese IDiom Dataset for Cloze Test. https://aclweb.org/anthology/papers/P/P19/P19-1075/
 
 
 ## State-of-the-art Systems
