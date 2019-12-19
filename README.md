@@ -24,7 +24,7 @@ Here I list several Chinese reading comprehension datasets that are PUBLICLY ava
 | DuReader [4] | Web | User log | free form | 1M | 200K | [link](https://github.com/baidu/DuReader) |
 | CMRC 2018 [5] | Wiki | Query | Span | - | 18K | [link](https://github.com/ymcui/cmrc2018) |
 | DRCD [6]<sup>(tranditional Chinese)</sup> | Wiki | Query | Span | - | 34K | [link](https://github.com/DRCSolutionService/DRCD) |
-| C^3 [7] | mixed | Query | choice | 14K | 24K | [link](https://dataset.org/c3/) |
+| C^3 [7] | mixed | Query | choice | 14K | 24K | [link](https://github.com/nlpdata/c3) |
 | CMRC 2019 [8] | Story | cloze | Sentence | 1K | 100K | [link](https://github.com/ymcui/cmrc2019) |
 | ChID [9] | varies | cloze | idiom | 580K | 729K | [link](https://github.com/zhengcj1/ChID-Dataset) | 
 
